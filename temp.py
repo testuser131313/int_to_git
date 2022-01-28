@@ -9,7 +9,7 @@ apple.name='apple'
 print(apple.name)
 
 comment=False
-comment='new comment ggg'
+comment='new comment from andrey'
 if comment:
 	print('is comment')
 
